@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vkeyboard
+Z1 I;F59bS<10EjbV[R2;G5`l0
+Z2 Vc_:gJnN]zRQ8mC;FZh0Pz3
+Z3 dC:\Users\sumiha
+Z4 w1793956655
+Z5 8C:\Users\sumiha\work\eda\exp9_keyboard\keyboard.v
+Z6 FC:\Users\sumiha\work\eda\exp9_keyboard\keyboard.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work {C:\Users\sumiha\work\eda\exp9_keyboard\work} -O0
+!i10b 1
+Z9 !s100 i=S6EQL74H0h29WAPmi>K1
+!s85 0
+Z10 !s108 1793956658.927000
+Z11 !s107 C:\Users\sumiha\work\eda\exp9_keyboard\keyboard.v|
+Z12 !s90 -work|C:\Users\sumiha\work\eda\exp9_keyboard\work|C:\Users\sumiha\work\eda\exp9_keyboard\keyboard.v|
+!s101 -O0
+vtb_key
+!i10b 1
+!s100 _IgdZj@YCG8o=0ZZWN0[M1
+I;T;WQlFgfJiSd3;HV<3@O3
+Z13 V?XI_o<;8[caA[GjO2`Mi20
+R3
+w1793956663
+Z14 8C:\Users\sumiha\work\eda\exp9_keyboard\tb_key.v
+Z15 FC:\Users\sumiha\work\eda\exp9_keyboard\tb_key.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1793956667.354000
+!s107 C:\Users\sumiha\work\eda\exp9_keyboard\tb_key.v|
+!s90 -work|C:\Users\sumiha\work\eda\exp9_keyboard\work|C:\Users\sumiha\work\eda\exp9_keyboard\tb_key.v|
+!s101 -O0
+R8

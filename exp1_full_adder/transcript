@@ -1,0 +1,12 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_full 
+# run -all 
+# 000 -> co=0 so=0 sum=0
+# 001 -> co=0 so=1 sum=1
+# 010 -> co=0 so=1 sum=1
+# 011 -> co=1 so=0 sum=2
+# 100 -> co=0 so=1 sum=1
+# 101 -> co=1 so=0 sum=2
+# 110 -> co=1 so=0 sum=2
+# 111 -> co=1 so=1 sum=3
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp1_full_adder/tb_full.v(13)
+#    Time: 80 ns  Iteration: 0  Instance: /tb_full

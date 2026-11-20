@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vtb_img
+!i10b 1
+Z1 !s100 g1CTU=4kF?_62BMI<k6n^2
+Z2 IOlIRC>;d6JeVnWkdHI>Wj3
+Z3 VSn41OC>Fz9ENgQU_UeXGP3
+Z4 dC:\Users\sumiha
+Z5 w1793879300
+Z6 8C:\Users\sumiha\work\eda\exp16_vga\tb_img.v
+Z7 FC:\Users\sumiha\work\eda\exp16_vga\tb_img.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1793967095.714000
+Z10 !s107 C:\Users\sumiha\work\eda\exp16_vga\tb_img.v|C:\Users\sumiha\work\eda\exp16_vga\vga_image.v|
+Z11 !s90 -work|C:\Users\sumiha\work\eda\exp16_vga\work|C:\Users\sumiha\work\eda\exp16_vga\vga_image.v|C:\Users\sumiha\work\eda\exp16_vga\tb_img.v|
+!s101 -O0
+Z12 o-work {C:\Users\sumiha\work\eda\exp16_vga\work} -O0
+vvga_image
+!i10b 1
+!s100 cV<U<jLVGI<<8iGPT10jH0
+IMEgbi8E^5b??T[PX6^YkU2
+Z13 V<MGFP@>ZEEAcC71@6F9Nf3
+R4
+w1793967086
+Z14 8C:\Users\sumiha\work\eda\exp16_vga\vga_image.v
+Z15 FC:\Users\sumiha\work\eda\exp16_vga\vga_image.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12

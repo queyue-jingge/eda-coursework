@@ -1,0 +1,11 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_smpte 
+# run -all 
+# h=50 v=100 rgb=10010010
+# h=120 v=100 rgb=11111100
+# h=200 v=100 rgb=00011111
+# h=400 v=100 rgb=11100000
+# h=600 v=100 rgb=01001001
+# h=50 v=100 rgb=10010010
+# mode after 3 presses = 0
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp15_vga/tb_smpte.v(35)
+#    Time: 600700 ns  Iteration: 0  Instance: /tb_smpte

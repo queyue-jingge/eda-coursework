@@ -1,0 +1,23 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_sled 
+# run -all 
+# cnt=1 seg=11111001 dig=00000000
+# cnt=3 seg=10110000 dig=00000000
+# cnt=5 seg=10010010 dig=00000000
+# cnt=7 seg=11111000 dig=00000000
+# cnt=9 seg=10010000 dig=00000000
+# cnt=b seg=10000011 dig=00000000
+# cnt=d seg=10100001 dig=00000000
+# cnt=f seg=10001110 dig=00000000
+# cnt=1 seg=11111001 dig=00000000
+# cnt=3 seg=10110000 dig=00000000
+# cnt=5 seg=10010010 dig=00000000
+# cnt=7 seg=11111000 dig=00000000
+# cnt=9 seg=10010000 dig=00000000
+# cnt=b seg=10000011 dig=00000000
+# cnt=d seg=10100001 dig=00000000
+# cnt=f seg=10001110 dig=00000000
+# cnt=1 seg=11111001 dig=00000000
+# cnt=3 seg=10110000 dig=00000000
+# DONE
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp3_sled/tb_sled.v(18)
+#    Time: 710 ns  Iteration: 1  Instance: /tb_sled

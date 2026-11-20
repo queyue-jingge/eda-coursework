@@ -1,0 +1,9 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_img 
+# run -all 
+# h=0 v=0 rgb=00
+# h=10 v=10 rgb=c0
+# h=320 v=240 rgb=12
+# h=635 v=475 rgb=0e
+# DONE
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp16_vga/tb_img.v(27)
+#    Time: 500 ns  Iteration: 0  Instance: /tb_img

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vdled
+Z1 IM75?1YmM^g;nnf^B1ooha3
+Z2 VBOioLJRJzMJCBC^SPfRC[0
+Z3 dC:\Users\sumiha
+Z4 w1793871105
+Z5 8C:\Users\sumiha\work\eda\exp4_dled\dled.v
+Z6 FC:\Users\sumiha\work\eda\exp4_dled\dled.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s108 1793871106.055000
+Z9 !s107 C:\Users\sumiha\work\eda\exp4_dled\tb_dled.v|C:\Users\sumiha\work\eda\exp4_dled\dled.v|
+Z10 !s90 -work|C:\Users\sumiha\work\eda\exp4_dled\work|C:\Users\sumiha\work\eda\exp4_dled\dled.v|C:\Users\sumiha\work\eda\exp4_dled\tb_dled.v|
+Z11 o-work {C:\Users\sumiha\work\eda\exp4_dled\work} -O0
+!i10b 1
+Z12 !s100 F8?SaKW3SiVmVk@^@_53H2
+!s85 0
+!s101 -O0
+vtb_dled
+!i10b 1
+!s100 Lafm<5@bM_AjF=i:f3@<=0
+I2_WEd=<UEU1eCh5Jnm:WD3
+Z13 VYLIm:M`2iB5B]jJ9=Edgl1
+R3
+w1793871135
+Z14 8C:\Users\sumiha\work\eda\exp4_dled\tb_dled.v
+Z15 FC:\Users\sumiha\work\eda\exp4_dled\tb_dled.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1793871143.272000
+!s107 C:\Users\sumiha\work\eda\exp4_dled\tb_dled.v|
+!s90 -work|C:\Users\sumiha\work\eda\exp4_dled\work|C:\Users\sumiha\work\eda\exp4_dled\tb_dled.v|
+!s101 -O0
+R11

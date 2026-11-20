@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vdebounce16
+!i10b 1
+!s100 NcLj18ajzcC8E^0aZ[Xg70
+I?]gAz`3Jc@0ADlA:g:oWl0
+V0zgW^<9jY2A67ndQG3=IB3
+Z1 dC:\Users\sumiha
+w1793965427
+8C:\Users\sumiha\work\eda\exp5_debounce\debounce16.v
+FC:\Users\sumiha\work\eda\exp5_debounce\debounce16.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1793965443.126000
+Z4 !s107 C:\Users\sumiha\work\eda\exp5_debounce\tb_deb.v|C:\Users\sumiha\work\eda\exp5_debounce\debounce16.v|
+Z5 !s90 -work|C:\Users\sumiha\work\eda\exp5_debounce\work|C:\Users\sumiha\work\eda\exp5_debounce\debounce16.v|C:\Users\sumiha\work\eda\exp5_debounce\tb_deb.v|
+!s101 -O0
+Z6 o-work {C:\Users\sumiha\work\eda\exp5_debounce\work} -O0
+vtb_deb
+!i10b 1
+!s100 XoYc=LQU5?z<N:UNRi]2V1
+I@fGXB;;_Oadf==[3m:SGd3
+VJnTX;4N>5CSo?EYSG5YU<2
+R1
+w1793965438
+8C:\Users\sumiha\work\eda\exp5_debounce\tb_deb.v
+FC:\Users\sumiha\work\eda\exp5_debounce\tb_deb.v
+L0 2
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6

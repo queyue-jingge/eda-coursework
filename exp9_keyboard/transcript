@@ -1,0 +1,5 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_key 
+# run -all 
+# note1 edges=104 freq=520Hz
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp9_keyboard/tb_key.v(20)
+#    Time: 201 ms  Iteration: 0  Instance: /tb_key

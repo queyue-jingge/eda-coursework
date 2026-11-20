@@ -1,0 +1,15 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_dled 
+# run -all 
+# sel=1 dig=11111101 seg=10100100
+# sel=2 dig=11111011 seg=10110000
+# sel=3 dig=11110111 seg=10011001
+# sel=4 dig=11101111 seg=10010010
+# sel=5 dig=11011111 seg=10000010
+# sel=6 dig=10111111 seg=11111000
+# sel=7 dig=01111111 seg=10000000
+# sel=0 dig=11111110 seg=11111001
+# sel=1 dig=11111101 seg=10100100
+# sel=2 dig=11111011 seg=10110000
+# DONE
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp4_dled/tb_dled.v(19)
+#    Time: 13107290 ns  Iteration: 0  Instance: /tb_dled

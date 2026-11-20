@@ -1,0 +1,5 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_deb 
+# run -all 
+# debounced=1 raw=5
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp5_debounce/tb_deb.v(22)
+#    Time: 33601 us  Iteration: 0  Instance: /tb_deb

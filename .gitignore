@@ -1,0 +1,16 @@
+db/
+incremental_db/
+simulation/
+greybox_tmp/
+*.qws
+*.sof
+*.svf
+*.pof
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.done
+*.bak
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vdigital_clock
+!i10b 1
+!s100 A1Q9Jl<kYRAJS[6L1I4mO3
+IJH_5k<[oN2:^n75o5n19<0
+Z1 VD>a_ac1ZVNSModCVj=ac`0
+Z2 dC:\Users\sumiha
+w1793954550
+Z3 8C:\Users\sumiha\work\eda\exp11_clock\digital_clock.v
+Z4 FC:\Users\sumiha\work\eda\exp11_clock\digital_clock.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1793954752.774000
+Z7 !s107 C:\Users\sumiha\work\eda\exp11_clock\tb_clock.v|C:\Users\sumiha\work\eda\exp11_clock\digital_clock.v|
+Z8 !s90 -work|C:\Users\sumiha\work\eda\exp11_clock\work|C:\Users\sumiha\work\eda\exp11_clock\digital_clock.v|C:\Users\sumiha\work\eda\exp11_clock\tb_clock.v|
+!s101 -O0
+Z9 o-work {C:\Users\sumiha\work\eda\exp11_clock\work} -O0
+vtb_clock
+!i10b 1
+!s100 T^ajGXGiIK`b>NGQalj5>1
+ITGe7G^;A]2`6X7`AV;JnD3
+Z10 V_H>E3XdiogaZacmSVWb`z0
+R2
+w1793954749
+Z11 8C:\Users\sumiha\work\eda\exp11_clock\tb_clock.v
+Z12 FC:\Users\sumiha\work\eda\exp11_clock\tb_clock.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9

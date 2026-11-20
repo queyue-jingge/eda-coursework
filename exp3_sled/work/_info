@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vsled
+!i10b 1
+!s100 AC=ZX@TM692`G=WW7^=Kj0
+IVH6aP7b0XfY?;a6UY;Gio3
+VPc]ZmVjBTO:CLj;?UQ44M1
+Z1 dC:\Users\sumiha
+Z2 w1793871153
+8C:\Users\sumiha\work\eda\exp3_sled\sled.v
+FC:\Users\sumiha\work\eda\exp3_sled\sled.v
+L0 2
+Z3 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z4 !s108 1793871160.989000
+Z5 !s107 C:\Users\sumiha\work\eda\exp3_sled\tb_sled.v|C:\Users\sumiha\work\eda\exp3_sled\sled.v|
+Z6 !s90 -work|C:\Users\sumiha\work\eda\exp3_sled\work|C:\Users\sumiha\work\eda\exp3_sled\sled.v|C:\Users\sumiha\work\eda\exp3_sled\tb_sled.v|
+!s101 -O0
+Z7 o-work {C:\Users\sumiha\work\eda\exp3_sled\work} -O0
+vtb_sled
+!i10b 1
+!s100 5CNeaL4CQGl5K1cCaOLW01
+II<[Kdc>]:;>c]U;OHG_nm0
+Vii?OJKLo^PPg]zS3PAmie1
+R1
+R2
+8C:\Users\sumiha\work\eda\exp3_sled\tb_sled.v
+FC:\Users\sumiha\work\eda\exp3_sled\tb_sled.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!s101 -O0
+R7

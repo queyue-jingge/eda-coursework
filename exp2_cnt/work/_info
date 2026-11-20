@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vcnt4
+!i10b 1
+!s100 fD=9Mf==BCPPDO>^E3=0[0
+IeN9U8aK_UZgI[JMH6`RI[1
+VgB>AYjC1]eZ^66mF]8E2F1
+Z1 dC:\Users\sumiha
+Z2 w1793870899
+Z3 8C:\Users\sumiha\work\eda\exp2_cnt\cnt4.v
+Z4 FC:\Users\sumiha\work\eda\exp2_cnt\cnt4.v
+L0 19
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1793871046.677000
+Z7 !s107 C:\Users\sumiha\work\eda\exp2_cnt\tb_cnt4.v|C:\Users\sumiha\work\eda\exp2_cnt\cnt4.v|
+Z8 !s90 -work|C:\Users\sumiha\work\eda\exp2_cnt\work|C:\Users\sumiha\work\eda\exp2_cnt\cnt4.v|C:\Users\sumiha\work\eda\exp2_cnt\tb_cnt4.v|
+!s101 -O0
+Z9 o-work {C:\Users\sumiha\work\eda\exp2_cnt\work} -O0
+vcntN
+!i10b 1
+!s100 em=X[JZ6N]OG21H1AM7E;1
+IL^fN7lFK`PI;8OQK4X5Qc2
+V2dPO19aJTB1]QnXWLa>Lc0
+R1
+R2
+R3
+R4
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+ncnt@n
+vtb_cnt4
+!i10b 1
+!s100 `Z@NIcSNm^6[?3V2mG;B@3
+I2L`B@Po[GGVeDo57`AiYR3
+VPX3j0c`mJ8FCV5VLVIM:Z1
+R1
+w1793871038
+8C:\Users\sumiha\work\eda\exp2_cnt\tb_cnt4.v
+FC:\Users\sumiha\work\eda\exp2_cnt\tb_cnt4.v
+L0 2
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9

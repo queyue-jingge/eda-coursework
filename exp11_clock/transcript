@@ -1,0 +1,8 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_clock 
+# run -all 
+# after reset 0:0:0
+# after 62 ticks 0:2:4
+# after +3600 ticks 2:2:4
+# DONE
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp11_clock/tb_clock.v(30)
+#    Time: 152724637 ps  Iteration: 0  Instance: /tb_clock

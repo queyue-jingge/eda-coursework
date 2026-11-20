@@ -1,0 +1,10 @@
+set_global_assignment -name FAMILY "Cyclone"
+set_global_assignment -name DEVICE EP1C12Q240C8
+set_global_assignment -name TOP_LEVEL_ENTITY full_adder
+set_global_assignment -name VERILOG_FILE full_adder.v
+set_location_assignment PIN_121 -to a
+set_location_assignment PIN_122 -to b
+set_location_assignment PIN_124 -to c
+set_location_assignment PIN_50 -to co
+set_location_assignment PIN_53 -to so
+set_global_assignment -name LAST_QUARTUS_VERSION "9.0 SP2"

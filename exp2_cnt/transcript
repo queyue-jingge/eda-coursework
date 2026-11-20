@@ -1,0 +1,18 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_cnt4 
+# run -all 
+# t=61000 q=1 carry=0
+# t=101000 q=2 carry=0
+# t=141000 q=3 carry=0
+# t=181000 q=4 carry=0
+# t=221000 q=5 carry=0
+# t=261000 q=6 carry=0
+# t=301000 q=7 carry=0
+# t=341000 q=8 carry=0
+# t=381000 q=9 carry=1
+# t=421000 q=0 carry=0
+# t=461000 q=1 carry=0
+# t=501000 q=2 carry=0
+# after disable q=2
+# DONE
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp2_cnt/tb_cnt4.v(27)
+#    Time: 541 ns  Iteration: 0  Instance: /tb_cnt4

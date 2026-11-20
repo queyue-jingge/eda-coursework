@@ -1,0 +1,8 @@
+# vsim -do {run -all; quit -f} -c -quiet work.tb_led1616 
+# run -all 
+# STR#0 sclk_in_frame=32 captured=0000fffe
+# STR#1 sclk_in_frame=32 captured=3800fffd
+# frames=2
+# DONE
+# ** Note: $finish    : C:/Users/sumiha/work/eda/exp14_led/tb_led1616.v(30)
+#    Time: 3 ms  Iteration: 0  Instance: /tb_led1616

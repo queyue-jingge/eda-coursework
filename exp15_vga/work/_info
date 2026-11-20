@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sumiha
+vtb_smpte
+!i10b 1
+!s100 b32_gFGQ`eXYbmeDT1QN02
+Iz@[=W7lbFVCLfBjokzXLo2
+Z1 VO;__]=kVBcL`BlaB@Ko993
+Z2 dC:\Users\sumiha
+w1793966543
+Z3 8C:\Users\sumiha\work\eda\exp15_vga\tb_smpte.v
+Z4 FC:\Users\sumiha\work\eda\exp15_vga\tb_smpte.v
+L0 2
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1793966547.818000
+Z7 !s107 C:\Users\sumiha\work\eda\exp15_vga\tb_smpte.v|C:\Users\sumiha\work\eda\exp15_vga\vga_smpte.v|
+Z8 !s90 -work|C:\Users\sumiha\work\eda\exp15_vga\work|C:\Users\sumiha\work\eda\exp15_vga\vga_smpte.v|C:\Users\sumiha\work\eda\exp15_vga\tb_smpte.v|
+!s101 -O0
+Z9 o-work {C:\Users\sumiha\work\eda\exp15_vga\work} -O0
+vtb_vga
+Z10 I9[Ujd:T8N?9HG03GH2PPb2
+Z11 V6c0Y85QV0<MAWdSiDC8652
+R2
+Z12 w1793879039
+Z13 8C:\Users\sumiha\work\eda\exp15_vga\tb_vga.v
+Z14 FC:\Users\sumiha\work\eda\exp15_vga\tb_vga.v
+L0 2
+R5
+r1
+31
+Z15 !s108 1793879042.501000
+Z16 !s107 C:\Users\sumiha\work\eda\exp15_vga\tb_vga.v|C:\Users\sumiha\work\eda\exp15_vga\vga_bars.v|
+Z17 !s90 -work|C:\Users\sumiha\work\eda\exp15_vga\work|C:\Users\sumiha\work\eda\exp15_vga\vga_bars.v|C:\Users\sumiha\work\eda\exp15_vga\tb_vga.v|
+R9
+Z18 !s100 bWYbIBm4hzXUTld@@I:EW3
+!i10b 1
+!s85 0
+!s101 -O0
+vvga_bars
+Z19 IobL:7ZL?<@KJZVkCcR]Se1
+Z20 VLaXG?3LkcD`cfNA:`^9AQ3
+R2
+Z21 w1793879028
+Z22 8C:\Users\sumiha\work\eda\exp15_vga\vga_bars.v
+Z23 FC:\Users\sumiha\work\eda\exp15_vga\vga_bars.v
+L0 1
+R5
+r1
+31
+R15
+R16
+R17
+R9
+Z24 !s100 9aVNadm2j]Qa>Y3RgeFCa1
+!i10b 1
+!s85 0
+!s101 -O0
+vvga_smpte
+!i10b 1
+!s100 AXDCBLGX;]FNP?:2F0]aC0
+IFzj4Zo?l6oJEAf5CDGDXJ0
+VHXmg;e_iYI6SA@LTA`7n50
+R2
+w1793966521
+Z25 8C:\Users\sumiha\work\eda\exp15_vga\vga_smpte.v
+Z26 FC:\Users\sumiha\work\eda\exp15_vga\vga_smpte.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
